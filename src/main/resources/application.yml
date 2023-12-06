@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      uri: ${MONGODB_DATABASE_URL:mongodb+srv://jander:OXBe2CBBvflRbh1f@cluster0.tcqlat5.mongodb.net/?retryWrites=true&w=majority}
+      auto-index-creation: true
+  docker:
+    compose:
+      lifecycle-management: start-only
