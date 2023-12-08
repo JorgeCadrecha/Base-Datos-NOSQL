@@ -65,6 +65,7 @@ Rúbrica:
 
 Por favor, ten en cuenta que esta es una rúbrica sugerida y puede adaptarse según las necesidades y requisitos específicos de tu curso o proyecto.
 
+base-datos-nosql.vercel.app
 
 
 This app was created with Bootify.io - tips on working with the code [can be found here](https://bootify.io/next-steps/).
